@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/platform-macOS-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-green)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
-![Version](https://img.shields.io/badge/version-1.1.0-darkgrey)
+![Version](https://img.shields.io/badge/version-ERROR-darkgrey)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 <p align="center">
