@@ -11,6 +11,7 @@
 # DISCLAIMER
 ### Yes I wrote this code, but I did need the assistance of AI (Specifically Jules), This helped my fix my bugs, but everything else I did
 
+-
 A production-grade, high-performance native desktop application suite for macOS and Windows (SOON) . This project demonstrates advanced operating system integration, robust security hardening, and high-performance user interface design without the overhead of web-based runtimes or Electron-like frameworks.
 
 ## Architecture
