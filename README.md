@@ -8,6 +8,9 @@
   <img src="https://github.com/user-attachments/assets/b0bca756-d753-43fe-8d77-4a5f287a5a90" width="256" height="256" />
 </p>
 
+# DISCLAIMER
+### Yes I wrote this code, but I did need the assistance of AI (Specifically Jules), This helped my fix my bugs, but everything else I did
+
 A production-grade, high-performance native desktop application suite for macOS and Windows (SOON) . This project demonstrates advanced operating system integration, robust security hardening, and high-performance user interface design without the overhead of web-based runtimes or Electron-like frameworks.
 
 ## Architecture
