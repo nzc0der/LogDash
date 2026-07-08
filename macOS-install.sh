@@ -2,10 +2,10 @@
 
 set -e  # Stop on error
 
-REPO_URL="https://github.com/nzc0der/startup-dash.git"
+REPO_URL="https://github.com/nzc0der/LogDash.git"
 BRANCH="feature/native-startup-dashboard-2596268292904286694"
-PROJECT_DIR="$HOME/StartupDashboard"
-APP_NAME="StartupDashboard.app"
+PROJECT_DIR="$HOME/LogDash"
+APP_NAME="LogDash.app"
 
 echo "🚀 Starting fresh install..."
 
